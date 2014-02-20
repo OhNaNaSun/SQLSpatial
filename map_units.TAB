@@ -1,0 +1,37 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "WindowsSimpChinese"
+  Fields 30
+    ID Char (50) ;
+    ScaleRank Char (50) ;
+    LabelRank Char (50) ;
+    FeatureCla Char (50) ;
+    SOVEREIGNT Char (50) ;
+    SOV_A3 Char (50) ;
+    ADM0_DIF Char (50) ;
+    LEVEL Char (50) ;
+    TYPE Char (50) ;
+    ADMIN Char (50) ;
+    ADM0_A3 Char (50) ;
+    GEOU_DIF Char (50) ;
+    GEOUNIT Char (50) ;
+    GU_A3 Char (50) ;
+    SU_DIF Char (50) ;
+    SUBUNIT Char (50) ;
+    SU_A3 Char (50) ;
+    NAME Char (50) ;
+    ABBREV Char (50) ;
+    POSTAL Char (50) ;
+    NAME_FORMA Char (50) ;
+    TERR_ Char (50) ;
+    NAME_SORT Char (50) ;
+    MAP_COLOR Char (50) ;
+    POP_EST Char (50) ;
+    GDP_MD_EST Char (50) ;
+    FIPS_10_ Char (50) ;
+    ISO_A2 Char (50) ;
+    ISO_A3 Char (50) ;
+    ISO_N3 Char (50) ;
